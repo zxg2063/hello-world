@@ -1,0 +1,6 @@
+"abdbcdbcabc"
+"a*bc"
+"abdbca"
+"a*bc"
+"aefgbcbbccbcmdx"
+"a*bc?d*"
